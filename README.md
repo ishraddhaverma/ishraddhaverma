@@ -1,3 +1,6 @@
+
+[![MasterHead](https://www.canva.com/design/DAEO-I6arjc/eEWsuv9geD-aVpJJX5Lz0g/view?utm_content=DAEO-I6arjc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://ishraddhaverma.github.io)
+
 <h1 align="center">Hi 👋, I'm Shraddha Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishraddhaverma&label=Profile%20views&color=0e75b6&style=flat" alt="ishraddhaverma" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
