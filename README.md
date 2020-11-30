@@ -1,4 +1,4 @@
-[![MasterHead](http://i.xp.io/1UwaBGnn.png)](https://ishraddhaverma.github.io)
+[![MasterHead](http://i.xp.io/1UwubsJM.png)](https://ishraddhaverma.github.io)
 
 <h1 align="center">Hi 👋, I'm Shraddha Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishraddhaverma&label=Profile%20views&color=0e75b6&style=flat" alt="ishraddhaverma" /> </p>
