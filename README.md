@@ -1,9 +1,9 @@
 [![MasterHead](http://i.xp.io/1UwubsJM.png)](https://ishraddhaverma.github.io)
 
-<h1 align="center">Hi 👋, I'm Shraddha Verma</h1>
+<h1 align="center">Hi, I'm Shraddha Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishraddhaverma&label=Profile%20views&color=0e75b6&style=flat" alt="ishraddhaverma" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 📫 How to reach me **ishraddhaverma@gmail.com**
+- 📫 Contact me at **ishraddhaverma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
